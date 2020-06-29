@@ -1,0 +1,26 @@
+{
+  "name": "vuejs-exercises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "private": true,
+  "scripts": {},
+  "eslintconfig": {
+    "env": {
+      "jest": true
+    }
+  },
+  "dependencies": {
+    "vue": "2.6.11"
+  },
+  "devDependencies": {
+    "@vue/test-utils": "1.0.3",
+    "babel-jest": "26.1.0",
+    "jest": "26.1.0",
+    "vue": "2.6.11",
+    "vue-jest": "3.0.5",
+    "vue-template-compiler": "2.6.11"
+  },
+  "browserslist": ["> 1%", "last 2 versions", "not ie <= 8"],
+  "keywords": []
+}
