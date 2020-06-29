@@ -4,8 +4,8 @@
     <label>{{ minutes + ':' + seconds }}</label>
     <br>
     <span>
-      <button @click="start">Start</button>
-      <button @click="stop">Stop</button>
+      <button @click="toggle">Start</button>
+      <button @click="toggle">Stop</button>
       <button @click="reset" :disabled="!started">Reset</button>
     </span>
   </fieldset>
