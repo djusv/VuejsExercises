@@ -11,8 +11,8 @@
       Create your own components to visualize Post, Comments and Users.<br>
       You are allowed to create a different layout<br>
       Add styling to differentiate even and odd posts and comments<br>
-      You can use other libraries but try to use existing APIs (async/await, fetch, etc...)<br>
-      Reuse or modify code frome the examples if needed
+      You can any other libraries or tools<br>
+      Reuse or modify code frome the examples for a quickstart
     </pre>
     <example/>
     <postboard/>
